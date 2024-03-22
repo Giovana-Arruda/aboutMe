@@ -1,6 +1,6 @@
 # AboutMe
 
-Projeto desenvolvido para o segundo desafio do curso de React Native da plataforma DIO.
+Projeto desenvolvido para o terceiro desafio do curso de React Native da plataforma DIO.
 
 ## Instruções:
 Crie duas telas utilizando tudo o que você aprendeu até aqui utilizando componentes, estilização e a sua estratégia de navegação favorita.
